@@ -1,3 +1,1 @@
-Fully responsive Movie App with ability to search new films by request.
-It was created with usage of Open Movie Database API (https://www.omdbapi.com/).
-
+MovieLand - Your one-stop destination for finding the next movie to watch. Build using react, this web app is fully responsive, has animations, looks great, and uses the omdb API under the hood.
